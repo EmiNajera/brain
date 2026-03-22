@@ -1,0 +1,13 @@
+{
+  "name": "brain",
+  "version": "1.0.0",
+  "description": "Second Brain — minimal Node.js app for AI-assisted note & task management",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": ["second-brain", "notes", "tasks", "ai", "kanban"],
+  "author": "Valois Emiliano",
+  "license": "MIT"
+}
